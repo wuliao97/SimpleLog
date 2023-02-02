@@ -1,5 +1,5 @@
 # SimpleLog
-### Currently in production
+## Currently in production
 
 
 ## usage
@@ -14,3 +14,12 @@ pr("error message", E)
 pr("Warning message", W, "%d:%M")
 
 pr("None", format=fm_2)
+```
+
+### Output
+```
+16:49:39 - (+) test message
+16:49:39 - (!) error message   
+02:49 - (-) Warning message    
+2023/02/Thu 16:49:39 - ( ) None
+```
