@@ -17,12 +17,7 @@ pr("None", format=fm_2)
 ```
 
 ### Output
-```
-16:49:39 - (+) test message
-16:49:39 - (!) error message   
-02:49 - (-) Warning message    
-2023/02/Thu 16:49:39 - ( ) None
-```
+![image](https://github.com/wuliao97/SimpleLog/blob/main/images/Screenshot%202023-02-02%20165630.png)
 
 ## Option
 ```py
