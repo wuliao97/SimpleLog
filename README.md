@@ -50,5 +50,4 @@ fm_9:str = "%H:%M:%S"          #01:00:00
 fm_10:str = "%H:%M"            #01:00
 ```
 
-Thank you
-
+Thank you.
